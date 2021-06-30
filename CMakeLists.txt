@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.16)
-project("coroutine_lambdas_with_captures")
+project("coroutine-lambdas-with-captures")
 
 if(MSVC)
    string(REGEX REPLACE " /W[0-4]" "" CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}")

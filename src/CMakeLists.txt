@@ -1,4 +1,4 @@
-add_executable(coroutine_lambdas main.cpp)
+add_executable(coroutine-lambdas main.cpp)
 
 
 
